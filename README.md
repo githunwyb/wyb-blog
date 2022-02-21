@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 欢迎来到 wyb-blog 的后台
 
-You can use the [editor on GitHub](https://github.com/githunwyb/wyb-blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+这里是一个 wyb 存储本地博客的地方，可能会有很多 TJ 和 代码文件没有放上来，但是精华还是都更新了。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+由于网站使用 Github Pages 托管，可能域名有点怪怪的，并且可以下载源码文件。
 
-### Markdown
+**但是，转载文章前请注明出处。**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 文章列表
 
-```markdown
-Syntax highlighted code block
+Update：[2022.2.21]
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/githunwyb/wyb-blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [Trie 树学习笔记](https://githunwyb.github.io/wyb-blog/Trie%20%E6%A0%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html)
+2. [一中集训有感](https://githunwyb.github.io/wyb-blog/一中集训有感.html)
+3. [最小生成树](https://githunwyb.github.io/wyb-blog/最小生成树.html)
+4. [洛谷更换背景](https://githunwyb.github.io/wyb-blog/洛谷更换背景.html)
+5. [背包问题](https://githunwyb.github.io/wyb-blog/背包问题.html)
